@@ -1,7 +1,11 @@
-﻿Project Name: E-Commerce Web App |
-Made By: Karanvir Singh |
-Roll Number: CO22338 |
-Branch: CSE 4th Year |
+﻿Project Name: E-Commerce Web App
+ 
+Made By: Karanvir Singh
+
+Roll Number: CO22338
+
+Branch: CSE 4th Year
+
 Batch: 2022-26
 
 Project Description: The rapid growth of online shopping platforms over the past decade has significantly transformed the way consumers purchase
